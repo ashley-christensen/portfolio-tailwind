@@ -26,24 +26,24 @@ const Portfolio = () => {
 			demo: 'https://portfolio-tailwind.netlify.app/',
 			code: 'https://github.com/ashley-christensen/portfolio-tailwind',
 		},
-		{
-			id: 4,
-			src: Venture,
-			demo: 'https://venture-app.netlify.app/',
-			code: 'https://github.com/ashley-christensen/venture-app-OOP-javascript',
-		},
-		{
-			id: 5,
-			src: Weather,
-			demo: 'https://app.netlify.com/sites/ashley-weathergoodness/overview',
-			code: 'https://github.com/ashley-christensen/react-weather-app',
-		},
-		{
-			id: 6,
-			src: Pink,
-			demo: 'https://pinkgame-vanilla-js.netlify.app/',
-			code: 'https://github.com/ashley-christensen/pink-game-vanillaJS',
-		},
+		// {
+		// 	id: 4,
+		// 	src: Venture,
+		// 	demo: 'https://venture-app.netlify.app/',
+		// 	code: 'https://github.com/ashley-christensen/venture-app-OOP-javascript',
+		// },
+		// {
+		// 	id: 5,
+		// 	src: Weather,
+		// 	demo: 'https://app.netlify.com/sites/ashley-weathergoodness/overview',
+		// 	code: 'https://github.com/ashley-christensen/react-weather-app',
+		// },
+		// {
+		// 	id: 6,
+		// 	src: Pink,
+		// 	demo: 'https://pinkgame-vanilla-js.netlify.app/',
+		// 	code: 'https://github.com/ashley-christensen/pink-game-vanillaJS',
+		// },
 	];
 
 	return (
