@@ -29,7 +29,7 @@ const Portfolio = () => {
 		{
 			id: 3,
 			src: Work,
-			demo: 'https://portfolio-tailwind.netlify.app/',
+			demo: 'https://ashley-christensen.netlify.app',
 			code: 'https://github.com/ashley-christensen/portfolio-tailwind',
 			description:
 				'Simple project to learn Tailwind CSS for styling and smooth animation. React Scroll for easy navigation, hover effects, etc.',
@@ -45,7 +45,7 @@ const Portfolio = () => {
 		{
 			id: 5,
 			src: Weather,
-			demo: 'https://app.netlify.com/sites/ashley-weathergoodness/overview',
+			demo: 'https://ashley-weathergoodness.netlify.app/',
 			code: 'https://github.com/ashley-christensen/react-weather-app',
 			description:
 				'Open Weather API and React. Practiced ASYNC programming with AJAX and fetch API with Promises.',
