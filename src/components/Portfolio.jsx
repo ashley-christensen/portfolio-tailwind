@@ -86,7 +86,7 @@ const Portfolio = () => {
 				<div className='grid sm:grid-cols-2 md:grid-cols-3 gap-8 px-12 sm:px-0'>
 					{portfolios.map(({ id, src, demo, code, description }) => (
 						<div key={id} className='shadow-md shadow-pink-600 rounded-lg'>
-							<img src={src} alt='' className='rounded-md duration-200 hover:scale-105' />
+							<img src={src} alt='' className='rounded-md duration-300 hover:scale-105' />
 							<div className='flex'>
 								<div className='border-b-4 border-pink-500 w-1/2 mx-auto py-4'>
 									<button
