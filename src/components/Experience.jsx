@@ -15,44 +15,44 @@ const Experience = () => {
 		{
 			id: 1,
 			src: html,
-			title: 'HTML',
-			style: 'shadow-orange-200',
+			title: 'HTML5',
+			style: 'shadow-orange-300',
 		},
 		{
 			id: 2,
 			src: css,
-			title: 'CSS',
+			title: 'CSS3',
 			style: 'shadow-blue-200',
 		},
 		{
 			id: 3,
 			src: javascript,
-			title: 'JavaScript',
-			style: 'shadow-yello-200',
+			title: 'JavaScript / ES6+',
+			style: 'shadow-yellow-200',
 		},
 		{
 			id: 4,
 			src: react,
-			title: 'React',
+			title: 'React / React-Native',
 			style: 'shadow-blue-300',
 		},
 		{
 			id: 5,
 			src: tailwind,
 			title: 'Tailwind',
-			style: 'shadow-sky-200',
+			style: 'shadow-sky-300',
 		},
 		{
 			id: 6,
 			src: bootstrap,
 			title: 'Bootstrap',
-			style: 'shadow-purple-200',
+			style: 'shadow-purple-300',
 		},
 		{
 			id: 7,
 			src: sql,
-			title: 'PostgreSQL',
-			style: 'shadow-sky-100',
+			title: 'PostgreSQL / SQL',
+			style: 'shadow-sky-200',
 		},
 		{
 			id: 8,
@@ -70,13 +70,13 @@ const Experience = () => {
 			id: 10,
 			src: java,
 			title: 'Java',
-			style: 'shadow-brown-200',
+			style: 'shadow-orange-400',
 		},
 		{
 			id: 11,
 			src: github,
-			title: 'GitHub',
-			style: 'shadow-gray-300',
+			title: 'GitHub / Git',
+			style: 'shadow-gray-400',
 		},
 	];
 
@@ -89,7 +89,7 @@ const Experience = () => {
 				</div>
 				<div className='w-full grid grid-cols-2 sm:grid-cols-3 gap-8 text-center py-8 px-12 sm:px-0'>
 					{techs.map(({ id, src, title, style }) => (
-						<div key={id} className='shadow-md hover:scale-105 duration-500 py-2 rounded-lg'>
+						<div key={id} className={`shadow-md hover:scale-105 duration-500 py-2 rounded-lg ${style}`}>
 							<img src={src} alt='' className='w-20 mx-auto' />
 							<p className='mt-4'>{title}</p>
 						</div>
