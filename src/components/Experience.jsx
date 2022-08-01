@@ -4,7 +4,7 @@ import javascript from '../assets/javascript.png';
 import react from '../assets/react.png';
 import tailwind from '../assets/tailwind.png';
 import bootstrap from '../assets/bootstrap.svg';
-import sql from '../assets/postgresql.svg';
+import sql from '../assets/SQLL.png';
 import mongo from '../assets/mongodb.png';
 import github from '../assets/github.png';
 import node from '../assets/node.png';
@@ -51,7 +51,7 @@ const Experience = () => {
 		{
 			id: 7,
 			src: sql,
-			title: 'PostgreSQL / SQL',
+			title: 'SQL',
 			style: 'shadow-sky-200',
 		},
 		{
