@@ -4,7 +4,7 @@ import javascript from '../assets/javascript.png';
 import react from '../assets/react.png';
 import tailwind from '../assets/tailwind.png';
 import bootstrap from '../assets/bootstrap.svg';
-import sql from '../assets/SQLL.png';
+import sql from '../assets/SQL.png';
 import mongo from '../assets/mongodb.png';
 import github from '../assets/github.png';
 import node from '../assets/node.png';
@@ -57,7 +57,7 @@ const Experience = () => {
 		{
 			id: 8,
 			src: mongo,
-			title: 'MongoDB',
+			title: 'MongoDB / Atlas/ Compass',
 			style: 'shadow-green-300',
 		},
 		{
