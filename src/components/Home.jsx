@@ -9,9 +9,12 @@ const Home = () => {
 				<div className='flex flex-col justify-center h-full'>
 					<h2 className='text-4xl sm:text-7xl font-bold textLink'>I'm a Full Stack Developer</h2>
 					<p className='textLink py-4 max-w-md'>
-						With a background in sales, and education, I have expertise in working with teams first. I love
-						to work on web applications using technologies like React, Tailwind, MongoDB, Node and
-						PostgresSQL. Currently, I'm learning Java.
+						Thank you for checking out my web site. I'm a full stack developer with two years experience in
+						software development. I'm passionate at developing apps, improving programs and debugging code.
+						Seeking a position in tech as a software developer, customer service engineer or technical
+						account support rep. With work experience in sales and education, I'm adept at presentations
+						that convey technical value to stakeholders at all levels. I'm currently learning Typescript.
+						Java is next. I enjoy learning and I look forward to being part of a great team!
 					</p>
 					<div>
 						<Link

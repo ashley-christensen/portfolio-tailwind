@@ -9,18 +9,17 @@ const About = () => {
 				</div>
 
 				<p className='text-xl mt-20 '>
-					I am a highly motivated, energetic, quick learner and a team player. I'm fascinated by technology
-					and building software, especially the process of design, data, and breaking down the "process" for
-					solutions. I have worked my way up to leadership in the Cosmetology industry, later transitioned to
-					teaching Special Education , and after needing another big challenge, I finally decided to turn my
-					side hobby of programming into full time.
+					Coming from a large family of artists, I followed my heart and worked in cosmetology helping people
+					look their best. In college I studied American History to expand my knowledge of history, politics
+					and business. With that I worked as a Special Education teacher helping students with mild to
+					moderate disabilities, K6-8.
 				</p>
 				<br />
 
 				<p className='text-xl'>
-					I have never-ending grit, an eye for design, and a knack for building team morale. If you need an
-					energetic team player with strong communication skills, willing to assist others, and is not afraid
-					to find solutions anywhere necessary, I'm your woman!
+					I have grit, an eye for design, and believe in teamwork/team success - walking the fine line of
+					confidence and humility as an individual contributor and team player. I work efficiently and I
+					believe there's a right solution for every problem.
 				</p>
 			</div>
 		</div>
