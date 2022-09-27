@@ -1,5 +1,5 @@
 import { HiArrowNarrowRight } from 'react-icons/hi';
-import HeroImage from '../assets/profile-september.png';
+import HeroImage from '../assets/profile-septembersq.png';
 import { Link } from 'react-scroll';
 
 const Home = () => {
