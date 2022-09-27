@@ -89,11 +89,11 @@ const Portfolio = () => {
 							<img src={src} alt='' className='rounded-md duration-300 hover:scale-105' />
 							<div className='flex'>
 								<div className='border-b-4 border-pink-500 w-1/2 mx-auto py-4'>
-									<button
+									{/* <button
 										onClick={() => window.open(demo)}
 										className='w-1/2 px-2 py-2 duration-200 hover:scale-105'>
 										Demo
-									</button>
+									</button> */}
 									<button
 										onClick={() => window.open(code)}
 										className='w-1/2 px-2 py-2 duration-200 hover:scale-105'>
