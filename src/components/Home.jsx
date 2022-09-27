@@ -7,7 +7,7 @@ const Home = () => {
 		<div name='home' className='w-full h-screen bg-gradient-to-b from-black via-black to-gray-800'>
 			<div className=' max-w-screen-lg mx-auto flex flex-col md:flex-row items-center justify-center h-full px-4'>
 				<div className='flex flex-col justify-center h-full'>
-					<h2 className='text-4xl sm:text-7xl font-bold textLink'>Welcome </h2>
+					<h2 className='text-4xl sm:text-7xl font-bold textLink'>Welcome to my page</h2>
 					<p className='textLink py-4 max-w-md'>
 						Thank you for checking out my web site. I'm a full stack developer with two years experience in
 						software development. I'm passionate at developing apps, improving programs and debugging code.
