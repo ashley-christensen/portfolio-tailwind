@@ -1,6 +1,6 @@
 import Dinera from '../assets/portfolio/ReactRedux-Dinera.jpg';
 import Palmera from '../assets/portfolio/React-Palmera-feat.jpg';
-import Work from '../assets/portfolio/Tailwind-Portfolio.jpg';
+import Work from '../assets/portfolio/Portfolio-Tailwind2.jpg';
 import Venture from '../assets/portfolio/JSOOP-Venture.jpg';
 import Weather from '../assets/portfolio/React-Weather.jpg';
 import Pink from '../assets/portfolio/VanillaJSPink.jpg';
