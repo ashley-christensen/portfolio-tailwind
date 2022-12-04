@@ -31,7 +31,7 @@ const SocialLinks = () => {
 					Mail <HiOutlineMail size={30} />
 				</>
 			),
-			href: 'mailto:ReactJSqueen@gmail.com', //opens user's email client
+			href: 'mailto:ReactandFloat@gmail.com', //opens user's email client
 		},
 		{
 			id: 4,
