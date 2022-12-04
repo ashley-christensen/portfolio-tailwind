@@ -10,11 +10,9 @@ const Home = () => {
 					<h2 className='text-4xl sm:text-7xl font-bold textLink'>Thank you for visiting </h2>
 					<p className='textLink py-4 max-w-md'>
 						I'm a full stack developer with two years experience in software development. I'm passionate at
-						developing apps, improving programs and debugging code. Seeking a position in tech as a software
-						developer, customer service engineer or technical account support rep. With work experience in
+						developing apps, improving programs and debugging code. With work experience in
 						sales and education, I'm adept at presentations that convey technical value to stakeholders at
-						all levels. I'm currently learning Typescript. Java is next. I enjoy learning and I look forward
-						to being part of a great team!
+						all levels. I'm currently learning Typescript, Angular, and Kubernetes.
 					</p>
 					<div>
 						<Link
