@@ -40,7 +40,7 @@ const SocialLinks = () => {
 					Resume <BsFillPersonLinesFill size={30} />
 				</>
 			),
-			href: '/resume_Ashley_Christensen.pdf',
+			href: '/Ashley+Christensen+Resume.pdf',
 			style: 'rounded-br-md',
 			download: true,
 		},
